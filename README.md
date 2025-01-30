@@ -24,37 +24,34 @@
 
 <div align="center"> 
   <a href="mailto:rizqi.22078@mhs.unesa.ac.id">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/rizqi-jawwadin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
   </a>
   <a href="https://rizqijawwadin-portofolio.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=todoist&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
   </a>
 </div>
 
 <hr />
 
-<img align="right" height="200" src="https://www.icegif.com/wp-content/uploads/2023/03/icegif-1105.gif"  />
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br />
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap,kotlin,html,css,vscode,github,figma,tailwind,git,r,cpp" />
   <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,nextjs,mysql,flutter,laravel,docker,androidstudio" />
-</div><br />
+</div><br clear="both" />
 
-<hr />
+<img align="right" height="200" src="https://www.icegif.com/wp-content/uploads/2023/03/icegif-1105.gif"  />
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rizqijawwadin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizqijawwadin&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rizqijawwadin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+</div><br clear="both" />
 
-<img src="https://raw.githubusercontent.com/rizqijawwadin/rizqijawwadin/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rizqijawwadin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /><br />
+  <img src="https://raw.githubusercontent.com/rizqijawwadin/rizqijawwadin/output/snake.svg" alt="Snake animation" />
+</div>
 
 <!--
 ##Hi there 👋
