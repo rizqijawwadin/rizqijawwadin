@@ -36,6 +36,8 @@
 
 <hr />
 
+<img align="right" height="200" src="https://www.icegif.com/wp-content/uploads/2023/03/icegif-1105.gif"  />
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br />
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap,kotlin,html,css,vscode,github,figma,tailwind,git,r,cpp" />
@@ -46,13 +48,13 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizqijawwadin&show_icons=true&locale=en&layout=compact" alt="rizqijawwadin" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizqijawwadin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizqijawwadin&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rizqijawwadin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizqijawwadin&show_icons=true&locale=en" alt="rizqijawwadin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizqijawwadin&" alt="rizqijawwadin" /></p>
-
-
+<img src="https://raw.githubusercontent.com/rizqijawwadin/rizqijawwadin/output/snake.svg" alt="Snake animation" />
 
 <!--
 ##Hi there 👋
